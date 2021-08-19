@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXDAL\obj\Debug\ProjectXDAL.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXDAL\obj\Debug\ProjectXDAL.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXDAL\bin\Debug\ProjectXDAL.dll.config
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXDAL\bin\Debug\ProjectXDAL.dll
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXDAL\bin\Debug\ProjectXDAL.pdb
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXDAL\bin\Debug\EntityFramework.dll
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXDAL\bin\Debug\ProjectXDTO.dll
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXDAL\bin\Debug\ProjectXDTO.pdb
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXDAL\bin\Debug\EntityFramework.xml
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXDAL\obj\Debug\ProjectXDAL.csproj.CopyComplete
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXDAL\obj\Debug\ProjectXDAL.dll
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXDAL\obj\Debug\ProjectXDAL.pdb

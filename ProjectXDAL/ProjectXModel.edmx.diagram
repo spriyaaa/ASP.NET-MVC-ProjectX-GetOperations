@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1fd6d3a390354ef08631b41b8fa19bb9" Name="Diagram1">
+        <EntityTypeShape EntityType="MINIPROJECTModel.AssessmentMode" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MINIPROJECTModel.Batch" Width="1.5" PointX="3" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MINIPROJECTModel.BatchModelCourseMapping" Width="1.5" PointX="5.25" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MINIPROJECTModel.CourseFacultyMapping" Width="1.5" PointX="5.25" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MINIPROJECTModel.Cours" Width="1.5" PointX="3" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="MINIPROJECTModel.Faculty" Width="1.5" PointX="0.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MINIPROJECTModel.Grader" Width="1.5" PointX="8.25" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MINIPROJECTModel.Model" Width="1.5" PointX="5.25" PointY="15.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MINIPROJECTModel.Participant" Width="1.5" PointX="6" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MINIPROJECTModel.sysdiagram" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="MINIPROJECTModel.FK__BatchMode__Batch__6D0D32F4" ManuallyRouted="false" />
+        <AssociationConnector Association="MINIPROJECTModel.FK__BatchMode__Cours__6EF57B66" ManuallyRouted="false" />
+        <AssociationConnector Association="MINIPROJECTModel.FK__BatchMode__Facul__6E01572D" ManuallyRouted="false" />
+        <AssociationConnector Association="MINIPROJECTModel.FK__CourseFac__Cours__6477ECF3" ManuallyRouted="false" />
+        <AssociationConnector Association="MINIPROJECTModel.FK__CourseFac__Facul__656C112C" ManuallyRouted="false" />
+        <AssociationConnector Association="MINIPROJECTModel.FK__Courses__CourseO__619B8048" ManuallyRouted="false" />
+        <AssociationConnector Association="MINIPROJECTModel.FK__Grader__CourseId__06CD04F7" ManuallyRouted="false" />
+        <AssociationConnector Association="MINIPROJECTModel.FK__Grader__FacultyI__5AEE82B9" ManuallyRouted="false" />
+        <AssociationConnector Association="MINIPROJECTModel.FK__Grader__Particip__5BE2A6F2" ManuallyRouted="false" />
+        <AssociationConnector Association="MINIPROJECTModel.ModelCourses" ManuallyRouted="false" />
+        <AssociationConnector Association="MINIPROJECTModel.ParticipantBatchMapping" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

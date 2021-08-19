@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXDTO\bin\Debug\ProjectXDTO.dll
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXDTO\bin\Debug\ProjectXDTO.pdb
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXDTO\obj\Debug\ProjectXDTO.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXDTO\obj\Debug\ProjectXDTO.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXDTO\obj\Debug\ProjectXDTO.dll
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXDTO\obj\Debug\ProjectXDTO.pdb

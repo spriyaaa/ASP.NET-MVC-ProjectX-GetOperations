@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXBL\obj\Debug\ProjectXBL.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXBL\obj\Debug\ProjectXBL.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXBL\bin\Debug\ProjectXBL.dll
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXBL\bin\Debug\ProjectXBL.pdb
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXBL\bin\Debug\ProjectXDAL.dll
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXBL\bin\Debug\ProjectXDTO.dll
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXBL\bin\Debug\EntityFramework.dll
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXBL\bin\Debug\ProjectXDAL.pdb
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXBL\bin\Debug\ProjectXDAL.dll.config
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXBL\bin\Debug\ProjectXDTO.pdb
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXBL\bin\Debug\EntityFramework.xml
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXBL\obj\Debug\ProjectXBL.csproj.CopyComplete
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXBL\obj\Debug\ProjectXBL.dll
+C:\Users\hp\source\repos\ProjectXWebApp\ProjectXBL\obj\Debug\ProjectXBL.pdb
